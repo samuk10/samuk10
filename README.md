@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuk10
-- 👀 I’m interested in FrontEnd/Network
-- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT
+- 👀 I’m interested in BackEnd/Network
+- 🌱 I’m currently learning Databases/SQLAlchemy/FastAPI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
