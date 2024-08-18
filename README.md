@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39324](https://github.com/digitalinnovationone/dio-lab-open-source/pull/39324) in [digitalinnovationone/dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)
+1. 🗣 Commented on [#16](https://github.com/StreamElements/obs-streamelements-core/issues/16#issuecomment-2295278674) in [StreamElements/obs-streamelements-core](https://github.com/StreamElements/obs-streamelements-core)
 <!--END_SECTION:activity-->
 
 ---
