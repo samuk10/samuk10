@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#227](https://github.com/saoudrizwan/claude-dev/issues/227#issuecomment-2331668539) in [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev)
+1. 🗣 Commented on [#3822](https://github.com/ValveSoftware/csgo-osx-linux/issues/3822#issuecomment-2368486247) in [ValveSoftware/csgo-osx-linux](https://github.com/ValveSoftware/csgo-osx-linux)
 <!--END_SECTION:activity-->
 
 ---
