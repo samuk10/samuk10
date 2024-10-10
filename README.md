@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/uphy/obsidian-reminder/issues/93#issuecomment-2395451342) in [uphy/obsidian-reminder](https://github.com/uphy/obsidian-reminder)
+1. 💪 Opened PR [#15](https://github.com/germanodlf/bacula-zabbix/pull/15) in [germanodlf/bacula-zabbix](https://github.com/germanodlf/bacula-zabbix)
 <!--END_SECTION:activity-->
 
 ---
