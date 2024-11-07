@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/germanodlf/bacula-zabbix/pull/15) in [germanodlf/bacula-zabbix](https://github.com/germanodlf/bacula-zabbix)
+1. 🗣 Commented on [#838](https://github.com/BelledonneCommunications/linphone-desktop/issues/838#issuecomment-2462081983) in [BelledonneCommunications/linphone-desktop](https://github.com/BelledonneCommunications/linphone-desktop)
 <!--END_SECTION:activity-->
 
 ---
