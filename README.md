@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#838](https://github.com/BelledonneCommunications/linphone-desktop/issues/838#issuecomment-2462081983) in [BelledonneCommunications/linphone-desktop](https://github.com/BelledonneCommunications/linphone-desktop)
+1. 🗣 Commented on [#38](https://github.com/hydrogen-music/hydrogen/issues/38#issuecomment-2480843331) in [hydrogen-music/hydrogen](https://github.com/hydrogen-music/hydrogen)
 <!--END_SECTION:activity-->
 
 ---
