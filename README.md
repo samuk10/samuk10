@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/hydrogen-music/hydrogen/issues/38#issuecomment-2481844825) in [hydrogen-music/hydrogen](https://github.com/hydrogen-music/hydrogen)
+1. ❗ Opened issue [#1](https://github.com/samuk10/monitoring_templates/issues/1) in [samuk10/monitoring_templates](https://github.com/samuk10/monitoring_templates)
 <!--END_SECTION:activity-->
 
 ---
