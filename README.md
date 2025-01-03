@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/samuk10/monitoring_templates/issues/1) in [samuk10/monitoring_templates](https://github.com/samuk10/monitoring_templates)
+1. 🗣 Commented on [#1690](https://github.com/Infisical/infisical/issues/1690#issuecomment-2569241057) in [Infisical/infisical](https://github.com/Infisical/infisical)
 <!--END_SECTION:activity-->
 
 ---
