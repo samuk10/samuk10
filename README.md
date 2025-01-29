@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1690](https://github.com/Infisical/infisical/issues/1690#issuecomment-2569241057) in [Infisical/infisical](https://github.com/Infisical/infisical)
+1. 🗣 Commented on [#16](https://github.com/uphy/obsidian-reminder/issues/16#issuecomment-2619567634) in [uphy/obsidian-reminder](https://github.com/uphy/obsidian-reminder)
 <!--END_SECTION:activity-->
 
 ---
