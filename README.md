@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#318](https://github.com/thatmattlove/hyperglass/issues/318) in [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass)
+1. 🔒 Closed issue [#909](https://github.com/danielmiessler/fabric/issues/909) in [danielmiessler/fabric](https://github.com/danielmiessler/fabric)
 <!--END_SECTION:activity-->
 
 ---
