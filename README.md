@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/felixrieseberg/clippy/issues/7#issuecomment-2863073465) in [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy)
+1. 🗣 Commented on [#25](https://github.com/AndyFilter/YeetMouse/issues/25#issuecomment-2899651802) in [AndyFilter/YeetMouse](https://github.com/AndyFilter/YeetMouse)
 <!--END_SECTION:activity-->
 
 ---
