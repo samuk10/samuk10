@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/AndyFilter/YeetMouse/issues/25#issuecomment-2907546665) in [AndyFilter/YeetMouse](https://github.com/AndyFilter/YeetMouse)
+1. ❗ Opened issue [#1299](https://github.com/kirodotdev/Kiro/issues/1299) in [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro)
 <!--END_SECTION:activity-->
 
 ---
