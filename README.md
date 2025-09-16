@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1299](https://github.com/kirodotdev/Kiro/issues/1299) in [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro)
+1. 🗣 Commented on [#2500](https://github.com/Dokploy/dokploy/issues/2500#issuecomment-3299889085) in [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
 <!--END_SECTION:activity-->
 
 ---
