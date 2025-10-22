@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#143](https://github.com/FireFox2000000/Moonscraper-Chart-Editor/issues/143#issuecomment-3368653403) in [FireFox2000000/Moonscraper-Chart-Editor](https://github.com/FireFox2000000/Moonscraper-Chart-Editor)
+1. 🗣 Commented on [#2364](https://github.com/flameshot-org/flameshot/issues/2364#issuecomment-3432932810) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
 <!--END_SECTION:activity-->
 
 ---
