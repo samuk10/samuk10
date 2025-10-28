@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2364](https://github.com/flameshot-org/flameshot/issues/2364#issuecomment-3432932810) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
+1. ❗ Opened issue [#2](https://github.com/Theryston/notefinder/issues/2) in [Theryston/notefinder](https://github.com/Theryston/notefinder)
 <!--END_SECTION:activity-->
 
 ---
