@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/Theryston/notefinder/issues/2) in [Theryston/notefinder](https://github.com/Theryston/notefinder)
+1. 🗣 Commented on [#2759](https://github.com/Dokploy/dokploy/issues/2759#issuecomment-3473924569) in [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
 <!--END_SECTION:activity-->
 
 ---
