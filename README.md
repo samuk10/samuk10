@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4152](https://github.com/ValveSoftware/csgo-osx-linux/issues/4152#issuecomment-3488747861) in [ValveSoftware/csgo-osx-linux](https://github.com/ValveSoftware/csgo-osx-linux)
+1. 🗣 Commented on [#4176](https://github.com/ValveSoftware/csgo-osx-linux/issues/4176#issuecomment-3490778799) in [ValveSoftware/csgo-osx-linux](https://github.com/ValveSoftware/csgo-osx-linux)
 <!--END_SECTION:activity-->
 
 ---
