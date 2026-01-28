@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2237](https://github.com/Dokploy/dokploy/issues/2237#issuecomment-3799736918) in [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
+1. ℹ️ Labeled issue [#424](https://github.com/nicotsx/zerobyte/issues/424) in [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte)
 <!--END_SECTION:activity-->
 
 ---
