@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#424](https://github.com/nicotsx/zerobyte/issues/424) in [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte)
+1. 🗣 Commented on [#2078](https://github.com/logancyang/obsidian-copilot/issues/2078#issuecomment-3828439439) in [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot)
 <!--END_SECTION:activity-->
 
 ---
