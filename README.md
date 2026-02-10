@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2078](https://github.com/logancyang/obsidian-copilot/issues/2078#issuecomment-3828439439) in [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot)
+1. 🗣 Commented on [#15098](https://github.com/jumpserver/jumpserver/issues/15098#issuecomment-3880298322) in [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)
 <!--END_SECTION:activity-->
 
 ---
