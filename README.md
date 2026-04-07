@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15098](https://github.com/jumpserver/jumpserver/issues/15098#issuecomment-3880298322) in [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)
+1. ❗ Opened issue [#35](https://github.com/heyitsnoah/claudesidian/issues/35) in [heyitsnoah/claudesidian](https://github.com/heyitsnoah/claudesidian)
 <!--END_SECTION:activity-->
 
 ---
