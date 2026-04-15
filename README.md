@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/heyitsnoah/claudesidian/issues/35#issuecomment-4230377859) in [heyitsnoah/claudesidian](https://github.com/heyitsnoah/claudesidian)
+1. ❗ Opened issue [#4232](https://github.com/gsd-build/gsd-2/issues/4232) in [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2)
 <!--END_SECTION:activity-->
 
 ---
