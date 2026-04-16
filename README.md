@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4232](https://github.com/gsd-build/gsd-2/issues/4232) in [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2)
+1. ❗ Opened issue [#4360](https://github.com/gsd-build/gsd-2/issues/4360) in [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2)
 <!--END_SECTION:activity-->
 
 ---
