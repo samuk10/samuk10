@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4689](https://github.com/gsd-build/gsd-2/issues/4689) in [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2)
+1. ❗ Opened issue [#1](https://github.com/Jason-Cyr/ai-agent-workflow/issues/1) in [Jason-Cyr/ai-agent-workflow](https://github.com/Jason-Cyr/ai-agent-workflow)
 <!--END_SECTION:activity-->
 
 ---
