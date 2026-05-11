@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Jason-Cyr/ai-agent-workflow/issues/1) in [Jason-Cyr/ai-agent-workflow](https://github.com/Jason-Cyr/ai-agent-workflow)
+1. ❗ Opened issue [#2](https://github.com/thecodacus/rendiv/issues/2) in [thecodacus/rendiv](https://github.com/thecodacus/rendiv)
 <!--END_SECTION:activity-->
 
 ---
