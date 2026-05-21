@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/thecodacus/rendiv/issues/2) in [thecodacus/rendiv](https://github.com/thecodacus/rendiv)
+1. 🗣 Commented on [#4192](https://github.com/ValveSoftware/csgo-osx-linux/issues/4192#issuecomment-4512702745) in [ValveSoftware/csgo-osx-linux](https://github.com/ValveSoftware/csgo-osx-linux)
 <!--END_SECTION:activity-->
 
 ---
