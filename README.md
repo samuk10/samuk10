@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4192](https://github.com/ValveSoftware/csgo-osx-linux/issues/4192#issuecomment-4512702745) in [ValveSoftware/csgo-osx-linux](https://github.com/ValveSoftware/csgo-osx-linux)
+1. ℹ️ Labeled issue [#4792](https://github.com/Dokploy/dokploy/issues/4792) in [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
 <!--END_SECTION:activity-->
 
 ---
