@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#4792](https://github.com/Dokploy/dokploy/issues/4792) in [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
+1. ❗ Opened issue [#117](https://github.com/fennaraOfficial/fennara-godot-ai/issues/117) in [fennaraOfficial/fennara-godot-ai](https://github.com/fennaraOfficial/fennara-godot-ai)
 <!--END_SECTION:activity-->
 
 ---
