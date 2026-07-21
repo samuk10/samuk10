@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#117](https://github.com/fennaraOfficial/fennara-godot-ai/issues/117) in [fennaraOfficial/fennara-godot-ai](https://github.com/fennaraOfficial/fennara-godot-ai)
+1. 🗣 Commented on [#30](https://github.com/takezoh/obsidian-air-sync/issues/30#issuecomment-5033929211) in [takezoh/obsidian-air-sync](https://github.com/takezoh/obsidian-air-sync)
 <!--END_SECTION:activity-->
 
 ---
