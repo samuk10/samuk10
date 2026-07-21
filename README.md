@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/takezoh/obsidian-air-sync/issues/30#issuecomment-5033929211) in [takezoh/obsidian-air-sync](https://github.com/takezoh/obsidian-air-sync)
+1. 🗣 Commented on [#30](https://github.com/takezoh/obsidian-air-sync/issues/30#issuecomment-5037075047) in [takezoh/obsidian-air-sync](https://github.com/takezoh/obsidian-air-sync)
 <!--END_SECTION:activity-->
 
 ---
