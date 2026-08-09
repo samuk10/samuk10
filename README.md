@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8689](https://github.com/diegosouzapw/OmniRoute/issues/8689#issuecomment-5160192971) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+1. 🗣 Commented on [#235](https://github.com/lightningpixel/modly/pull/235#issuecomment-5234328875) in [lightningpixel/modly](https://github.com/lightningpixel/modly)
 <!--END_SECTION:activity-->
 
 ---
