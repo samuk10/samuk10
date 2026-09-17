@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#235](https://github.com/lightningpixel/modly/pull/235#issuecomment-5234328875) in [lightningpixel/modly](https://github.com/lightningpixel/modly)
+1. ❗ Opened issue [#60](https://github.com/FlashForge/Orca-Flashforge/issues/60) in [FlashForge/Orca-Flashforge](https://github.com/FlashForge/Orca-Flashforge)
 <!--END_SECTION:activity-->
 
 ---
