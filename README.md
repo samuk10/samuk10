@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#60](https://github.com/FlashForge/Orca-Flashforge/issues/60) in [FlashForge/Orca-Flashforge](https://github.com/FlashForge/Orca-Flashforge)
+1. ❗ Opened issue [#102](https://github.com/takezoh/obsidian-air-sync/issues/102) in [takezoh/obsidian-air-sync](https://github.com/takezoh/obsidian-air-sync)
 <!--END_SECTION:activity-->
 
 ---
