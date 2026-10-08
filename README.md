@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#106](https://github.com/takezoh/obsidian-air-sync/issues/106) in [takezoh/obsidian-air-sync](https://github.com/takezoh/obsidian-air-sync)
+1. ❗ Opened issue [#37](https://github.com/TheSpaghettiDetective/JusPrin/issues/37) in [TheSpaghettiDetective/JusPrin](https://github.com/TheSpaghettiDetective/JusPrin)
 <!--END_SECTION:activity-->
 
 ---
