@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/TheSpaghettiDetective/JusPrin/issues/37#issuecomment-6064002473) in [TheSpaghettiDetective/JusPrin](https://github.com/TheSpaghettiDetective/JusPrin)
+1. ❗ Opened issue [#33](https://github.com/HeyPuter/everything/issues/33) in [HeyPuter/everything](https://github.com/HeyPuter/everything)
 <!--END_SECTION:activity-->
 
 ---
