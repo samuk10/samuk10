@@ -33,7 +33,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#33](https://github.com/HeyPuter/everything/issues/33) in [HeyPuter/everything](https://github.com/HeyPuter/everything)
+1. ❗ Opened issue [#368](https://github.com/google/elephant-goldfish-model/issues/368) in [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
 <!--END_SECTION:activity-->
 
 ---
